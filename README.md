@@ -6,4 +6,4 @@ A chatbot application, that answers for truss domain specific questions. This pr
 - Create virtual environment
   - `pip install virtualenv`
   - `virtualenv venv`
-  - `source venv/bin/activate`
+  - `source venv/Scripts/activate`
