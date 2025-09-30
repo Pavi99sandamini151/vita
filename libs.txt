@@ -1,0 +1,14 @@
+# Frontend requirements
+Flask==2.0.1
+Werkzeug==2.0.1
+flask-cors==3.0.10
+
+# Backend requirements
+python-dotenv==0.19.0
+transformers==4.33.2
+torch==2.0.1
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+uuid==1.30
+atlassian-python-api==3.41.0
+langchain==0.0.267
