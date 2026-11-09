@@ -57,7 +57,7 @@ If the answer is not in the document, the bot should say so instead of guessing.
 
 The React UI talks only to the Flask API. Flask coordinates three local components: the embedding model, the vector store, and the language model.
 
-![Architecture overview](docs/architecture-overview.svg)
+![Architecture overview](https://github.com/Pavi99sandamini151/vita/blob/main/images/architecture-overview.svg)
 
 The same diagram in Mermaid, as an editable text version (renders on GitHub):
 
@@ -85,7 +85,7 @@ flowchart TD
 
 There are two separate paths. The upload path runs once per document. The question path runs for every question.
 
-![Upload and question data flows](docs/data-flows.svg)
+![Upload and question data flows](https://github.com/Pavi99sandamini151/vita/blob/main/images/data-flows.svg)
 
 The same flows as text diagrams:
 
@@ -224,8 +224,7 @@ doc-chatbot/
         MessageBubble.jsx
         SourceChips.jsx
       App.jsx
-  docs/               architecture-overview.svg, data-flows.svg
-  images/             Chat with a document@1x.png (UI design)
+  images/             architecture-overview.svg, data-flows.svg, Chat with a document@1x.png
   README.md
 ```
 
