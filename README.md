@@ -1,64 +1,303 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="820" viewBox="0 0 1280 820" role="img" font-family="Inter, Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1YWE1ZGFiMi0wY2Q4LTQ3ZDctYWJhNS0wNmM5NGQ1NDQ5NjIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaK9juj+ZED7jQOHN7BjeUgIAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo2NDljMzZkYy1lNWUwLTQ2MmQtYTcyMC0zNDI2OGViZGNkMzdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNog8cdR0IRQQgfKVoQVLVCvQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggzy2URNUSy1LBNHkQCVDhfDYWx1VKP/JC21/NRs1sUOqkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaFILYbVPI70174qZikJcf8AAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCA+nP2K2gUtC3kghs9t32lzWjTt0LcclnQVvT6+QqXZlGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjVZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjVhYTVkYWIyLTBjZDgtNDdkNy1hYmE1LTA2Yzk0ZDU0NDk2Mi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmJkNmYwM2QxLTUxZGYtNDVlZC05ZjRjLTQ5ODRmYTY5YzlmNXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDPLZRE1RLLUsE0eRAJUOF8NhbHVUo/8kLbX81GzWxQ6qJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggaRu17SWe/jq2VIWHZGOz0AEJC1YDDcGVGba+Dr3GK+WiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg9Xk93MncZXvIwUOZFzvG8yLWei8xi/GC57Wz1ULTQmJ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQGQXnSCw5w40/6/ituiC8HfZWNLu5ZNJbhv4MSt/iyYgoMKPSgJpsIeW5suY0noLb4e/soMlxkdYg3iE5ypWoXg=</c2pa:manifest></metadata>
-<title>VITA document chat UI design</title>
-<desc>A header, a left panel with the uploaded document and a drop zone, and a chat area with two questions, an answer with source chips, a fallback answer, and an input bar.</desc>
-<rect width="1280" height="820" fill="#F3F5F7"/>
-<rect width="1280" height="69" fill="#FFFFFF"/>
-<line x1="0" y1="69" x2="1280" y2="69" stroke="#E2E6EB"/>
-<rect x="32" y="17" width="36" height="36" rx="10" fill="#0F766E"/>
-<path transform="translate(40,25) scale(0.833)" d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="80" y="40" font-size="18" font-weight="700" fill="#121826" dominant-baseline="central">VITA</text>
-<text x="138" y="40" font-size="14" fill="#4B5563" dominant-baseline="central">Ask your document</text>
-<rect x="1118" y="13" width="130" height="44" rx="10" fill="#FFFFFF" stroke="#CBD2DA"/>
-<text x="1183" y="35" font-size="14" font-weight="600" fill="#121826" text-anchor="middle" dominant-baseline="central">New document</text>
+# VITA Document Chatbot
 
-<rect x="32" y="93" width="340" height="342" rx="16" fill="#FFFFFF" stroke="#E2E6EB"/>
-<text x="52" y="125" font-size="13" font-weight="600" fill="#4B5563" letter-spacing="0.8" dominant-baseline="central">YOUR DOCUMENT</text>
-<rect x="52" y="145" width="300" height="64" rx="12" fill="#F3F5F7"/>
-<rect x="64" y="157" width="40" height="40" rx="10" fill="#FFFFFF" stroke="#E2E6EB"/>
-<g transform="translate(74,167) scale(0.833)" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/></g>
-<text x="116" y="171" font-size="15" font-weight="600" fill="#121826" dominant-baseline="central">Sample-document.pdf</text>
-<text x="116" y="191" font-size="13" font-weight="500" fill="#0F766E" dominant-baseline="central">Indexed and ready</text>
-<rect x="52" y="225" width="300" height="190" rx="12" fill="none" stroke="#B8C1CC" stroke-width="2" stroke-dasharray="6 6"/>
-<g transform="translate(190,243)" fill="none" stroke="#4B5563" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M17 8l-5-5-5 5"/><path d="M12 3v12"/></g>
-<text x="202" y="297" font-size="14" font-weight="500" fill="#121826" text-anchor="middle" dominant-baseline="central">Drop a file to replace it</text>
-<text x="202" y="319" font-size="13" fill="#4B5563" text-anchor="middle" dominant-baseline="central">Supports .txt and .pdf</text>
-<rect x="147" y="341" width="110" height="44" rx="10" fill="#0F766E"/>
-<text x="202" y="363" font-size="14" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">Choose file</text>
+Upload a `.txt` or `.pdf` document, then ask questions about it in a simple chat.
+Answers come only from the uploaded document, and every answer shows the passages it used.
 
-<rect x="32" y="459" width="340" height="130" rx="16" fill="#FFFFFF" stroke="#E2E6EB"/>
-<text x="52" y="491" font-size="13" font-weight="600" fill="#4B5563" letter-spacing="0.8" dominant-baseline="central">TIP</text>
-<g font-size="14" fill="#374151" dominant-baseline="central">
-<text x="52" y="518">Ask specific questions. Answers come</text>
-<text x="52" y="538">only from your document, and each one</text>
-<text x="52" y="558">shows the passages it used.</text>
-</g>
+The whole stack runs **locally and for free**: no paid API keys, and your documents never leave your machine.
 
-<rect x="396" y="93" width="852" height="703" rx="16" fill="#FFFFFF" stroke="#E2E6EB"/>
-<rect x="812" y="117" width="412" height="46" rx="16" fill="#121826"/>
-<text x="828" y="140" font-size="15" fill="#FFFFFF" dominant-baseline="central">What are the main topics covered in this document?</text>
-<rect x="420" y="187" width="600" height="70" rx="16" fill="#F3F5F7"/>
-<g font-size="15" fill="#121826" dominant-baseline="central">
-<text x="436" y="212">[Answer generated from the document appears here, in plain</text>
-<text x="436" y="236">language, using only the retrieved passages.]</text>
-</g>
-<text x="420" y="293" font-size="13" font-weight="600" fill="#4B5563" dominant-baseline="central">Sources</text>
-<g fill="#E6F2F0">
-<rect x="486" y="278" width="86" height="30" rx="15"/>
-<rect x="580" y="278" width="86" height="30" rx="15"/>
-<rect x="674" y="278" width="86" height="30" rx="15"/>
-</g>
-<g font-size="13" font-weight="500" fill="#0B5A54" text-anchor="middle" dominant-baseline="central">
-<text x="529" y="293">Passage 2</text>
-<text x="623" y="293">Passage 5</text>
-<text x="717" y="293">Passage 7</text>
-</g>
-<rect x="956" y="333" width="268" height="46" rx="16" fill="#121826"/>
-<text x="972" y="356" font-size="15" fill="#FFFFFF" dominant-baseline="central">What does it say about pricing?</text>
-<rect x="420" y="403" width="432" height="46" rx="16" fill="#F3F5F7"/>
-<text x="436" y="426" font-size="15" fill="#121826" dominant-baseline="central">I couldn't find anything about that in this document.</text>
-<line x1="397" y1="715" x2="1247" y2="715" stroke="#E2E6EB"/>
-<rect x="420" y="731" width="748" height="44" rx="12" fill="#FFFFFF" stroke="#B8C1CC"/>
-<text x="436" y="753" font-size="15" fill="#6B7280" dominant-baseline="central">Ask a question about your document</text>
-<rect x="1184" y="731" width="44" height="44" rx="12" fill="#0F766E"/>
-<g transform="translate(1194,741) scale(0.833)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 2L11 13"/><path d="M22 2l-7 20-4-9-9-4z"/></g>
-</svg>
+---
+
+## Table of contents
+
+1. [How it works](#how-it-works)
+2. [Tech stack](#tech-stack)
+3. [Architecture](#architecture)
+4. [Data flows](#data-flows)
+5. [UI design](#ui-design)
+6. [API specification](#api-specification)
+7. [Project structure](#project-structure)
+8. [Setup](#setup)
+9. [Build roadmap](#build-roadmap)
+10. [Known limitations](#known-limitations)
+11. [Future improvements](#future-improvements)
+
+---
+
+## How it works
+
+This project uses **RAG (Retrieval-Augmented Generation)**. A language model cannot read a whole document at once and does not know what is inside it, so we:
+
+1. **Extract** the text from the uploaded file
+2. **Chunk** it into small overlapping pieces
+3. **Embed** each chunk (turn it into a vector of numbers that captures its meaning)
+4. **Store** the vectors
+5. When a question arrives, **embed the question** and find the most similar chunks
+6. **Send those chunks plus the question** to the language model, telling it to answer only from that context
+
+If the answer is not in the document, the bot should say so instead of guessing.
+
+---
+
+## Tech stack
+
+| Layer | Choice | Why |
+|---|---|---|
+| Frontend | React | Upload button and chat UI |
+| Backend | Python, Flask, Flask-CORS | Small API with two endpoints |
+| PDF reading | `pypdf` | Extracts text from PDFs |
+| Embeddings | `sentence-transformers` (`all-MiniLM-L6-v2`) | Free, runs locally, small download |
+| Vector search | NumPy (cosine similarity) | No database needed for version 1 |
+| Language model | Ollama (for example `llama3.2`) | Free, runs locally |
+
+> Free hosted options such as the Gemini API free tier exist, but their limits change often and free-tier data may be used by the provider. Use only public or dummy documents with them, never confidential files.
+
+---
+
+## Architecture
+
+The React UI talks only to the Flask API. Flask coordinates three local components: the embedding model, the vector store, and the language model.
+
+![Architecture overview](docs/architecture-overview.svg)
+
+The same diagram in Mermaid, as an editable text version (renders on GitHub):
+
+```mermaid
+flowchart TD
+    UI["React UI<br/>Upload and chat"] -->|HTTP| API["Flask API<br/>/upload and /ask"]
+    API --> EMB["Embedding model<br/>sentence-transformers"]
+    API --> VEC["Vector store<br/>In-memory NumPy array"]
+    API --> LLM["Language model<br/>Ollama, runs locally"]
+```
+
+### Components
+
+| Component | Responsibility |
+|---|---|
+| React UI | File upload, message list, question input, shows source passages |
+| Flask API | Receives uploads and questions, coordinates the pieces below |
+| Embedding model | Turns chunks and questions into vectors |
+| Vector store | Holds chunk text and vectors for each uploaded document, keyed by `doc_id` |
+| Language model | Writes the final answer from the retrieved context |
+
+---
+
+## Data flows
+
+There are two separate paths. The upload path runs once per document. The question path runs for every question.
+
+![Upload and question data flows](docs/data-flows.svg)
+
+The same flows as text diagrams:
+
+### Upload path (once per document)
+
+```mermaid
+flowchart LR
+    A["Extract text<br/>.txt or .pdf"] --> B["Chunk<br/>With overlap"] --> C["Embed<br/>Text to numbers"] --> D["Vector store<br/>Kept in memory"]
+```
+
+### Question path (every question)
+
+```mermaid
+flowchart LR
+    A["Embed query<br/>Same model"] --> B["Find matches<br/>Top few chunks"] --> C["Build prompt<br/>Chunks + query"] --> D["Ask Ollama<br/>Local model"]
+```
+
+### Two rules that matter
+
+- **Use the same embedding model for chunks and questions.** Otherwise their vectors cannot be compared.
+- **Retrieval is the quality gate.** If the wrong chunks come back, no prompt can save the answer. Test retrieval on its own, before connecting the language model.
+
+### Pipeline functions
+
+| Function | Job | How to test it alone |
+|---|---|---|
+| `extract_text(path)` | Read `.txt` or `.pdf` | Print the first 500 characters |
+| `chunk_text(text, size, overlap)` | Split into overlapping pieces | Print the chunk count and look at 3 chunks |
+| `build_index(chunks)` | Embed all chunks once | Check the array shape is (number of chunks, 384) |
+| `retrieve(question, chunks, vectors, k)` | Return the top k chunks | Print them and ask whether a human could answer from them |
+| `answer(question, context_chunks)` | Prompt Ollama with the context | Ask something the document does and does not cover |
+
+### Prompt rule
+
+Tell the model to answer using only the provided context, and to say it could not find the answer when the context does not contain it. Small local models can ignore instructions more often than large hosted ones, so tighten the prompt if needed.
+
+---
+
+## UI design
+
+A single page with a document panel on the left and the chat on the right. On a phone-width screen the layout stacks vertically.
+
+![UI design](docs/ui-design.svg)
+
+### Screen regions
+
+| Region | Contents |
+|---|---|
+| Header | Logo mark, "VITA", the line "Ask your document", and a "New document" button |
+| Left panel, "Your document" | Current file with a status line ("Indexed and ready"), a dashed drop zone ("Drop a file to replace it", "Supports .txt and .pdf") with a "Choose file" button |
+| Left panel, "Tip" | One short hint: ask specific questions, answers come only from the document and show the passages used |
+| Chat area | User messages right-aligned in dark bubbles, answers left-aligned in light bubbles |
+| Sources row | Pill chips under each answer showing which passages were used |
+| Fallback answer | "I couldn't find anything about that in this document." |
+| Input bar | Text box and a send button |
+
+### Visual style
+
+| Token | Value |
+|---|---|
+| Page background | `#F3F5F7` |
+| Surfaces | `#FFFFFF` with a `#E2E6EB` border, 16px radius |
+| Primary text | `#121826` |
+| Secondary text | `#4B5563` |
+| Accent (buttons, status, send) | `#0F766E` |
+| Source chips | `#E6F2F0` background, `#0B5A54` text |
+| User bubble | `#121826` background, white text |
+| Font | Inter |
+| Minimum touch target | 44px |
+
+Accessibility: real `<button>` and `<input>` elements, an `aria-label` on the icon-only send button, and a hidden `<label>` for the question box.
+
+### Mapping the UI to the code
+
+| UI element | What it does in React |
+|---|---|
+| Choose file / drop zone | Posts a `FormData` to `/upload`, stores the returned `doc_id`, flips the status to "Indexed and ready" |
+| Message list | State array of `{ role, text, sources }` |
+| Sources chips | Rendered from the chunk numbers returned by `/ask` |
+| Fallback answer | Comes from the system prompt, not from the UI |
+| Send button | Posts `{ doc_id, question }` to `/ask` and appends the reply |
+
+> The image above is a standalone redraw of the mockup made on the Claude design canvas. Treat it as a target to build toward.
+
+---
+
+## API specification
+
+### `POST /upload`
+
+Accepts a multipart form with a `file` field (`.txt` or `.pdf`).
+
+Success response:
+
+```json
+{ "doc_id": "uuid-string", "chunks": 42 }
+```
+
+Errors: `400` when no readable text is found (for example a scanned PDF).
+
+### `POST /ask`
+
+Request:
+
+```json
+{ "doc_id": "uuid-string", "question": "What is this document about?" }
+```
+
+Success response:
+
+```json
+{ "answer": "...", "sources": [2, 5, 7] }
+```
+
+Errors: `404` for an unknown `doc_id`.
+
+> `sources` is a planned addition so the UI can render the Sources chips. Return the indexes of the retrieved chunks.
+
+---
+
+## Project structure
+
+A suggested layout:
+
+```
+doc-chatbot/
+  backend/
+    app.py            Flask app, /upload and /ask
+    pipeline.py       extract_text, chunk_text, build_index, retrieve, answer
+    requirements.txt
+  frontend/
+    src/
+      components/
+        DocumentPanel.jsx
+        ChatWindow.jsx
+        MessageBubble.jsx
+        SourceChips.jsx
+      App.jsx
+  docs/               architecture-overview.svg, data-flows.svg, ui-design.svg
+  README.md
+```
+
+---
+
+## Setup
+
+### Backend
+
+```bash
+mkdir doc-chatbot && cd doc-chatbot
+python -m venv venv
+source venv/bin/activate          # Windows: venv\Scripts\activate
+pip install ollama sentence-transformers numpy pypdf flask flask-cors
+```
+
+The `sentence-transformers` install pulls in PyTorch, which is a large download.
+
+### Local language model
+
+1. Install Ollama from [ollama.com](https://ollama.com).
+2. Pull a small model and check it works:
+
+```bash
+ollama pull llama3.2
+ollama run llama3.2
+```
+
+Rough guide by memory: 8 GB RAM suits a 3B model such as `llama3.2`. With 16 GB or more you can try a 7 to 8B model, which gives better answers but runs slower on CPU.
+
+### Run
+
+```bash
+python backend/app.py
+```
+
+Make sure Ollama is running first (the app runs in the background after install, or run `ollama serve`).
+
+---
+
+## Build roadmap
+
+Build one milestone at a time and run it before moving on.
+
+| # | Milestone | Done when |
+|---|---|---|
+| 1 | Talk to a local model | A Python script prints a reply from Ollama |
+| 2 | Read documents | `extract_text` prints text for both `.txt` and `.pdf` |
+| 3 | Chunking | You can see sensible chunks and compare chunk sizes of 200, 800 and 2000 characters |
+| 4 | Embeddings | In the cat / kitten / stock-prices test, the first two sentences score high and the third scores low |
+| 5 | Retrieval | The top chunks for a question are ones a human could answer from |
+| 6 | Generate the answer | The bot answers from context and says so when the answer is missing |
+| 7 | Flask API | `/upload` and `/ask` work from curl or Postman |
+| 8 | React UI | Upload, chat, and source chips work end to end |
+
+Tip: build and test a command-line version (load document, build index, ask questions in a loop) before adding Flask or React.
+
+---
+
+## Known limitations
+
+- **Scanned PDFs** are images, so `pypdf` returns empty text. Show an error for now. OCR would be needed to support them.
+- **In-memory storage** disappears when the server restarts.
+- **No chat memory.** Each question is answered independently, so follow-ups like "what about the second point?" will not work yet.
+- **Small local models** are slower and less reliable than hosted ones, especially on CPU.
+- **Embedding the document once** at upload time is important. Do not re-embed on every question.
+
+---
+
+## Future improvements
+
+- Return and display source passages with each answer
+- Send recent messages along with the new question to support follow-ups
+- Replace the in-memory store with Chroma, FAISS, or PostgreSQL with `pgvector`
+- Add file size limits and clearer error handling
+- Optionally swap in a hosted model for better answer quality. Ollama and Gemini both offer OpenAI-compatible endpoints, so keeping the model name, base URL and key in one config place makes switching easy
