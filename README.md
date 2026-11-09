@@ -128,7 +128,7 @@ Tell the model to answer using only the provided context, and to say it could no
 
 A single page with a document panel on the left and the chat on the right. On a phone-width screen the layout stacks vertically.
 
-![UI design](https://github.com/Pavi99sandamini151/vita/blob/main/images/Chat%20with%20a%20document%401x.png)
+![UI design](https://github.com/Pavi99sandamini151/vita/blob/main/images/ui-design.svg)
 
 ### Screen regions
 
