@@ -128,7 +128,7 @@ Tell the model to answer using only the provided context, and to say it could no
 
 A single page with a document panel on the left and the chat on the right. On a phone-width screen the layout stacks vertically.
 
-![UI design](docs/ui-design.svg)
+![UI design](https://github.com/Pavi99sandamini151/vita/blob/main/images/Chat%20with%20a%20document%401x.png)
 
 ### Screen regions
 
@@ -168,7 +168,7 @@ Accessibility: real `<button>` and `<input>` elements, an `aria-label` on the ic
 | Fallback answer | Comes from the system prompt, not from the UI |
 | Send button | Posts `{ doc_id, question }` to `/ask` and appends the reply |
 
-> The image above is a standalone redraw of the mockup made on the Claude design canvas. Treat it as a target to build toward.
+> The image above is the mockup made on the Claude design canvas. Treat it as a target to build toward.
 
 ---
 
@@ -224,7 +224,8 @@ doc-chatbot/
         MessageBubble.jsx
         SourceChips.jsx
       App.jsx
-  docs/               architecture-overview.svg, data-flows.svg, ui-design.svg
+  docs/               architecture-overview.svg, data-flows.svg
+  images/             Chat with a document@1x.png (UI design)
   README.md
 ```
 
